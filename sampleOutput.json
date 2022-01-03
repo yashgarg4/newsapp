@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": null,
+            "title": "Wird Bike-Messe Flop? Hersteller gehen lieber zur IAA als zur Eurobike | Regional",
+            "description": "Hätte OB Peter Feldmann mal lieber drum gekämpft, dass die IAA in Frankfurt bleibt.",
+            "url": "http://www.bild.de/regional/frankfurt/frankfurt-aktuell/wird-bike-messe-flop-hersteller-gehen-lieber-zur-iaa-als-zur-eurobike-77606746.bild.html",
+            "urlToImage": "https://images.bild.de/61374b172c792450062a3abe/5c76d0f8d9c504243b86475429928671/1/2?w=1280",
+            "publishedAt": "2021-09-07T11:29:48Z",
+            "content": "Frankfurt Hätte OB Peter Feldmann (62, SPD) mal lieber drum gekämpft, dass die IAA in Frankfurt bleibt. \r\nDenn nicht nur, dass der IAA-Ersatz Eurobike bei seiner letzten Schau in Friedrichshafen tota… [+892 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cate Lawrence",
+            "title": "Bosch brings ebike personalization through smart hardware and OTA updates",
+            "description": "Did you know SHIFT is taking the stage this fall? Together with an amazing line-up of experts, we will explore the future of mobility during TNW Conference 2021. Secure your ticket ...",
+            "url": "http://thenextweb.com/news/bosch-brings-ebike-personalisation-through-smart-hardware-and-ota-updates",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Frsz_bosch-ebike_ebike-flow-app_3_activitytracking_en_img_h900.jpeg&signature=0b7c0e792a5c501c3d0db5b0991d2b89",
+            "publishedAt": "2021-09-07T08:38:27Z",
+            "content": "Did you know SHIFT is taking the stage this fall? Together with an amazing line-up of experts, we will explore the future of mobility during TNW Conference 2021. Secure your ticket now!\r\nOur cars hav… [+3276 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Sam Machkovech",
+            "title": "Blix Vika+ review: A powerful ebike that folds and fits just about anywhere",
+            "description": "Despite some obvious cuts and lapses in getting the price down, Blix has charmed us.",
+            "url": "https://arstechnica.com/gadgets/2021/09/blix-vika-review-a-powerful-ebike-that-folds-and-fits-just-about-anywhere/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/IMG_1718-760x380.jpg",
+            "publishedAt": "2021-09-06T14:00:42+00:00",
+            "content": "Enlarge/ The 2021 Blix Vika+ foldable ebike, as posed in a neighbor's fancypants garden. Thanks, neighbor.\r\n88 with 54 posters participating, including story author\r\nAs the ebike universe explodes wi… [+4212 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Corey Gaskin",
+            "title": "OK, hear me out: Having a desk bike is actually pretty great",
+            "description": "It's a great release for fidgety energy, and it's surprisingly comfortable.",
+            "url": "https://arstechnica.com/gadgets/2021/09/ok-hear-me-out-having-a-desk-bike-is-actually-pretty-great/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Ars-Technica-Flexispot-Desk-Bike-Review-4-760x380.jpg",
+            "publishedAt": "2021-09-05T13:15:11+00:00",
+            "content": "Enlarge/ Behold: It is both desk and bike.\r\n70 with 63 posters participating\r\nIf you work from home, it's a good idea to spice up the home office from time to time. Some of us have been living the te… [+5546 chars]"
+        }
+    ]
+}
